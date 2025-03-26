@@ -34,7 +34,7 @@ To create a comprehensive sales dashboard for Blinkit using Excel, with the goal
 
 ✅Number of Items Sold: 8,523
 
-✅Average Customer Rating: 3.9
+✅Average Customer Rating: 4.0
 
 💡Insights:
 
