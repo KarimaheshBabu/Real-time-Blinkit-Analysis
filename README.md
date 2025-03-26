@@ -1,4 +1,4 @@
-# Real-time-Blinkit-Analysis
+# Blinkit-Sales Analysis Excel Project
 About this project
 ✈Objective:
 
