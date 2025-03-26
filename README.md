@@ -14,7 +14,7 @@ To create a comprehensive sales dashboard for Blinkit using Excel, with the goal
 
 ➡Data Loading and Cleaning:
 
-🔸Imported the collected data into Power BI.
+🔸Imported the collected data into Excel.
 
 ➡Cleaned the data by:
 
