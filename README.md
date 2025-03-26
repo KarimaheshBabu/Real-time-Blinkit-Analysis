@@ -1,5 +1,7 @@
 # Blinkit-Sales Analysis Excel Project
+
 About this project
+
 ✈Objective:
 
 To create a comprehensive sales dashboard for Blinkit using Excel, with the goal of analyzing key metrics and gaining actionable insights to drive business decisions.
