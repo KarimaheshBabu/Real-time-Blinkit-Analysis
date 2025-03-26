@@ -66,7 +66,7 @@ To create a comprehensive sales dashboard for Blinkit using Excel, with the goal
 
 If you find merit in my hard work and believe I'm eligible for a Power BI Developer or entry-level Data Analyst role, your support in finding opportunities would be greatly appreciated.
 
-Don't Forget to follow me on LinkedIn
+Don't Forget to follow me on [LinkedIn](https://www.linkedin.com/in/kari-mahesh-babu-54980a20a/)
 
 Presented by - Kari Mahesh Babu @ Aspiring Data Analyst
 
